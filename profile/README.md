@@ -33,15 +33,6 @@ Metastem（奇源）不是公司，不是组织，而是一面黑旗。
 
 ---
 
-## 🛠️ Metastem Projects
-
-- **WL.AX** — 自治者的地下广场  
-- **Wikiless** — 极简知识镜像，知识不应被囚禁  
-- **Metastem Cloud** — 匿名云与自由工具箱  
-- **DarkMatrix** — 越界实验室中的 AI 工具（副产物，而非核心）  
-
----
-
 ## 🏴 Call to Outlaws
 
 这里没有法律，没有权威，没有道德。   
