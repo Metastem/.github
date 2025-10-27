@@ -1,7 +1,7 @@
 # Metastem · 奇源
 
 > **The Dark Commons of the Net**  
-> 自由 · 叛逆 · 犯罪美学
+> 反抗 · 变革 · 自由
 
 ---
 
@@ -23,7 +23,7 @@ Metastem（奇源）不是公司，不是组织，而是一面黑旗。
 
 ---
 
-## 🏴 犯罪主义美学
+## 犯罪主义美学
 
 奇源以 **犯罪思想** 为美学核心：  
 
@@ -33,13 +33,13 @@ Metastem（奇源）不是公司，不是组织，而是一面黑旗。
 
 ---
 
-## 🏴 Call to Outlaws
+## Call to Outlaws
 
 这里没有法律，没有权威，没有道德。   
 唯一的规则就是打破所有的规则。
 
-- 🌐 [WL.AX](https://www.wl.ax)  
-- 🏴 No masters, no gods. Outlaws only.  
+-  [WL.AX](https://www.wl.ax)  
+-  No masters, no gods. Outlaws only.  
 
 ---
 
