@@ -1,6 +1,6 @@
 # Metastem · 奇源
 
-> **The Dark Commons of the Net**  
+> **Resistance · Revolution · Freedom**  
 > 反抗 · 变革 · 自由
 
 ---
